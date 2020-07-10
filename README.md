@@ -53,7 +53,7 @@ The 5 features which had the highest impact on the classification are:
 4. whether the customer's job falls into the admin category
 5. whether the customer is divorced.
 
-<img src="/Images/feats.png" alt="Top 5 Features" >
+<img src="/Images/feature_importance.png" alt="Top 5 Features" >
 
 Recommendations:
 * Focus on students and retired customers
