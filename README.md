@@ -53,14 +53,14 @@ The 5 features which had the highest impact on the classification are:
 4. whether the customer's job falls into the admin category
 5. whether the customer is divorced.
 
-<img src="/Images/feature_importance.png" alt="Top 5 Features" >
+<img src="/Images/feature_importance.png" alt="Top 5 Features" width = "500" >
 
 Recommendations:
 * Focus on students and retired customers
 * Focus on repeat customers as clients who previously subscribed to a term deposit are more likely to do so again (65%)
 * Conduct calls on cellular where possible
 
-<img src="/Images/job.png" alt="Rate of subscription amongst job categories" >
+<img src="/Images/job.png" alt="Rate of subscription amongst job categories" width = "500">
 
 ## Contact
 
