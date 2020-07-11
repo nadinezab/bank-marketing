@@ -26,7 +26,7 @@ The dataset can be found in the file *bank-additional-full.csv* in the Data fold
 
 * **Blog Post**
 
-A blog post was created as part of this project.
+A [blog post](https://medium.com/@nadinezab/who-to-call-a-classification-project-with-a-twist-e2577482d176?sk=b7d2d3e48c422aeddc6b5c4796866a4a) was created as part of this project.
 
 ## Results and recommendations
 
