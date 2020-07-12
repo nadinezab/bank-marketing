@@ -22,11 +22,15 @@ The [presentation](https://github.com/nadinezab/bank-marketing/blob/master/prese
 
 * **Data**
 
-The dataset can be found in the file *bank-additional-full.csv* in the Data folder, in this repository. It was originally from [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Bank+Marketing). 
+The dataset can be found in the file `bank-additional-full.csv` in the Data folder, in this repository. It was originally from [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Bank+Marketing). 
+
+* **Ressources**
+
+A collection of helper functions defined in the project and saved in `ressources.py` for future use.
 
 * **Blog Post**
 
-A [blog post](https://medium.com/@nadinezab/who-to-call-a-classification-project-with-a-twist-e2577482d176?sk=b7d2d3e48c422aeddc6b5c4796866a4a) was created as part of this project.
+A [blog post](https://towardsdatascience.com/who-to-call-a-classification-project-with-a-twist-e2577482d176?source=friends_link&sk=b7d2d3e48c422aeddc6b5c4796866a4a) on Medium was created as part of this project as published in Towards Data Science.
 
 ## Results and recommendations
 
@@ -62,6 +66,12 @@ Recommendations:
 
 <img src="/Images/job.png" alt="Rate of subscription amongst job categories" width = "500">
 
+Other findings:
+* calls which led to a subscription were on average 10 minutes long compare to 4 minutes for one that didn't
+* on average it took two phone calls to get a customer to subscribe
+
 ## Contact
 
 * If you have any questions, you can contact me at nzamersi@gmail.com
+
+Header image source: https://appsamurai.com/mobile-audience-targeting-how-to-hit-the-bulls-eye/
