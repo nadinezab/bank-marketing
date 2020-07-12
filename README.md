@@ -26,7 +26,7 @@ The dataset can be found in the file `bank-additional-full.csv` in the Data fold
 
 * **Ressources**
 
-A collection of helper functions defined in the project and saved in `ressources.py` for future use.
+A collection of [helper functions] (https://github.com/nadinezab/bank-marketing/blob/master/resources.py) defined in the project and saved in `resources.py` for future use.
 
 * **Blog Post**
 

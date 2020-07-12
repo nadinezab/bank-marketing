@@ -1,7 +1,5 @@
 # Modular functions
 
-import matplotlib.pyplot as plt
-
 def feature_rate_plot(col, target, df, colormap = 'viridis', ax = None):
     '''
     Plots a stacked bar chart showing the rate of target class 1 for a specific feature.
