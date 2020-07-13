@@ -26,11 +26,11 @@ The dataset can be found in the file `bank-additional-full.csv` in the Data fold
 
 * **Ressources**
 
-A collection of [helper functions] (https://github.com/nadinezab/bank-marketing/blob/master/resources.py) defined in the project and saved in `resources.py` for future use.
+A collection of [helper functions](https://github.com/nadinezab/bank-marketing/blob/master/resources.py) defined in the project and saved in `resources.py` for future use.
 
 * **Blog Post**
 
-A [blog post](https://towardsdatascience.com/who-to-call-a-classification-project-with-a-twist-e2577482d176?source=friends_link&sk=b7d2d3e48c422aeddc6b5c4796866a4a) on Medium was created as part of this project as published in Towards Data Science.
+A [blog post](https://towardsdatascience.com/who-to-call-a-classification-project-with-a-twist-e2577482d176?source=friends_link&sk=b7d2d3e48c422aeddc6b5c4796866a4a) on Medium was created as part of this project and published in Towards Data Science.
 
 ## Results and recommendations
 
