@@ -36,7 +36,7 @@ A [blog post](https://towardsdatascience.com/who-to-call-a-classification-projec
 
 A term deposit subscription was valued at USD 100 and through domain expertise, we know that the average uptake is around 10-15%. As such choosing the 500 customers to target randomly would have resulted in expected revenue between USD 5,000 and USD 7,500.
 
-However by gathering data and using an XGBoost classifier (accuracy 85%) , we were able to **increase revenue to USD 14,500**.
+However by gathering data and using an XGBoost classifier (accuracy 85%) , we were able to **increase revenue to USD 14,400**.
 
 A summary of the key steps which led us to this result are as follows:
 
